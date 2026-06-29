@@ -21,7 +21,7 @@ Esta nota apresenta o sistema de arquivos NTFS (New Technology File System), exp
 - Exemplo de uso em um ambiente com Dual Boot
 
 
-NTFS
+
 
 # NTFS — New Technology File System
 
